@@ -5,11 +5,12 @@ It involves collecting global meteorological surface and upper-air observations,
 Project Description: 
 
 This data contains day wise weather attributes from 2022 to July 2033 (predicted data)
+
 Columns are as follows :
-Date
-Average temperature (°F)
-Average humidity (%)
-Average dewpoint (°F)
+  Date
+  Average temperature (°F)
+  Average humidity (%)
+  Average dewpoint (°F)
 Average barometer (in)
 Average windspeed (mph)
 Average gust speed (mph)
