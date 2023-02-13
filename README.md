@@ -7,23 +7,43 @@ Project Description:
 This data contains day wise weather attributes from 2022 to July 2033 (predicted data)
 
 Columns are as follows :
+  
   Date
+  
   Average temperature (°F)
+  
   Average humidity (%)
+  
   Average dewpoint (°F)
-Average barometer (in)
-Average windspeed (mph)
-Average gust speed (mph)
-Average direction (°degree)
-Rainfall for month (in)
-Rainfall for year (in)
-Maximum rain per minute
-Maximum temperature (°F)
-Minimum temperature (°F)
-Maximum humidity (%)
-Minimum humidity (%)
-Maximum pressure
-Minimum pressure
-Maximum wind speed (mph)
-Maximum gust speed (mph)
-Maximum heat index (°F)
+  
+  Average barometer (in)
+  
+  Average windspeed (mph)
+  
+  Average gust speed (mph)
+  
+  Average direction (°degree)
+  
+  Rainfall for month (in)
+  
+  Rainfall for year (in)
+  
+  Maximum rain per minute
+
+  Maximum temperature (°F)
+ 
+  Minimum temperature (°F)
+  
+  Maximum humidity (%)
+  
+  Minimum humidity (%)
+  
+  Maximum pressure
+
+  Minimum pressure
+  
+  Maximum wind speed (mph)
+  
+  Maximum gust speed (mph)
+
+  Maximum heat index (°F)
